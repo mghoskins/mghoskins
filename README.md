@@ -2,6 +2,7 @@
 My name is Matthew G. Hoskins.  I am a Software Engineering Student at Iowa State University in my fourth year.
 I'm also trying to build up my non-school (personal) GitHub account (this one) to show what I can do to perspective employers.  
 Also to keep my work that I do whether it be code, school work, or something that I want to have a backup of.
+It should be known that, for academic dishonesty and intellectual rights reasons, that my school work will be made private.
 
 ### Anyway
 If you want to see the hidden wonder of the universe that is my bad luck: checkout my Dndata file under my mghoskins-data repo.
